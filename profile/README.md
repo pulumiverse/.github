@@ -12,6 +12,6 @@ There are many libraries or collections of components for Pulumi out there. Most
 
 ## Contributors
 
-- Thanks [@annematilde](https://github.com/annematilde) for an awesome [logo](assets/logo.png) and cool [mascot](assets/mascot.png).
+- Thanks [@annematilde](https://github.com/annematilde) for an awesome [logo](assets/logo.svg) and cool [mascot](assets/mascot.png).
 
 [reddit-comment]: https://www.reddit.com/r/kubernetes/comments/fqozeq/automating_deployments_to_kubernetes_with_pulumi/flsnysp/
