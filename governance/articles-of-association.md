@@ -1,5 +1,52 @@
 # Articles of Association for Pulumiverse
 
-Pulumiverse is a non-profit organization based around Pulumi, aimed at growing a
-community to share ideas, projects and build Open Source software amonst Pulumi
-users and enthusiasts.
+Pulumiverse is a non-profit organization to grow a community to share ideas,
+projects and build Open Source software amongst Pulumi users, developers and
+enthusiasts.
+
+This document regulates this organization; you'll find information about
+becoming a contributor, how and when to vote for board members and how policies
+are changed.
+
+## Contributors
+
+Contributors are the core of Pulumiverse. To become a contributor, all you have
+to do is open an issue(s) or pull request(s). Contributors can earn voting
+rights by either becoming a member of the Open Source Initiative or submitting
+more than ten contributions collectively across Pulumiverse repositories. Voting
+rights are only made valid by being added to the membership roster (feel free to
+open a pull request).
+
+## Community-elected Board
+
+Pulumiverse has a board that consists of five board members. Board members hold
+their role for two years; voting is staggered as such:
+
+We elect board members 1 and 2 in year 1, elected for two years. In year 2, we
+elect board members 3, 4 and 5. We elect board members 3, 4 and 5 for one year
+the first year.
+
+Everyone be can be nominated to become a board member, either by being nominated
+by others or sending your nomination to current board members before the annual
+community meeting. In addition, employees of Pulumi (or people directly
+connected with Pulumi) are welcome to participate as board members, but with no
+more than two members.
+
+## Community Meeting
+
+The community meeting is the highest level of power in the Pulumiverse
+organization. All contributors and members are welcome to join the community
+meeting. Voting rights are not required to spectate and post suggestions.
+
+Community meetings will be held annually by mid-November. This yearly community
+meeting has a fixed schedule:
+
+- Boards Reporting (to summarize the year)
+- Changes to policies
+- Documents Election
+
+Community members can send suggestions to change the governing documents and
+raise issues; no later than two weeks before the annual community meeting.
+
+Community members can call for a community meeting when at least 30% of all
+contributors call for it.
