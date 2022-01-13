@@ -12,8 +12,8 @@ are changed.
 
 Contributors are the core of Pulumiverse. To become a contributor, all you have
 to do is open an issue(s) or pull request(s). Contributors can earn voting
-rights by either becoming a member of the Open Source Initiative or submitting
-more than ten contributions collectively across Pulumiverse repositories each year. Voting
+rights by either becoming a member of the Open Source Initiative, submitting
+more than ten contributions collectively across Pulumiverse GitHub organization repositories annually, or being an active maintainer of a repository in the Pulumiverse GitHub organization. Voting
 rights are only made valid by being added to the membership roster (feel free to
 open a pull request).
 
