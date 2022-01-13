@@ -32,13 +32,13 @@ community meeting. In addition, employees of Pulumi Corporation (or people direc
 connected with Pulumi Corporation) are welcome to participate as board members, but with no
 more than two members are currently employed by Pulumi Corporation. 
 
-## Community Meeting
+## Governance Meeting
 
-The community meeting is the highest level of influence and ability for change in the Pulumiverse
-organization. All contributors and members are welcome to join the community
+The governance meeting is the highest level of influence and ability for change in the Pulumiverse
+organization. All contributors and members are welcome to join the governance
 meeting. Voting rights are not required to spectate and post suggestions.
 
-At least one community meeting will be held annually by 1 November. This yearly community
+At least one governance meeting will be held annually by 1 November. This yearly governance
 meeting has a fixed schedule:
 
 - Boards Reporting (to summarize the year)
@@ -48,7 +48,7 @@ meeting has a fixed schedule:
 Community members can send suggestions to change the governing documents and
 raise issues; no later than two weeks before the annual community meeting.
 
-Community members can call for a community meeting when at least 30% of all
+Community members can call for a governance meeting when at least 30% of all
 contributors call for it.
 
 ## Transparency
