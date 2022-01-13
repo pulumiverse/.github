@@ -50,3 +50,12 @@ raise issues; no later than two weeks before the annual community meeting.
 
 Community members can call for a community meeting when at least 30% of all
 contributors call for it.
+
+## Transparency
+
+Building community trust in the governance of an open-source project is vital
+to its success. To that end, decision making must be done in a transparent,
+open fashion. No decisions about the project’s direction, bug fixes or features
+may be done without community involvement and participation. Discussions must
+begin at the earliest possible point on a topic; the community’s participation
+is vital during the entire decision-making process.
