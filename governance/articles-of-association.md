@@ -30,7 +30,7 @@ Anyone (regardless of contributor or voting rights status) be can be nominated t
 by others or sending your nomination to current board members before the annual
 community meeting. In addition, employees of Pulumi Corporation (or people directly
 connected with Pulumi Corporation) are welcome to participate as board members, but with no
-more than two members are currently employed by Pulumi Corporation. 
+more than two members are currently employed by Pulumi Corporation.
 
 ## Governance Meeting
 
