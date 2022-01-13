@@ -49,7 +49,7 @@ Community members can send suggestions to change the governing documents and
 raise issues; no later than two weeks before the annual community meeting.
 
 Community members can call for a governance meeting when at least 30% of all
-contributors call for it.
+members with voting rights call for it.
 
 ## Transparency
 
