@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/pulumiverse/.github/main/assets/github-logo.svg" width="300px" alt="Pulumiverse" />
 
-The repository is made to create a place where people can talk about Pulumi. The intention of this organization and community is to provide Pulumi-based libraries, made by the community. The idea was initiated by a [Reddit comment][reddit-comment].
+Welcome to the Pulumiverse. This a place for the Pulumi community to interact and collaborate on Pulumi-based libraries, projects, and learning resources. The idea was initiated by a [Reddit comment][reddit-comment].
 
 ## Want to join the discussion?
 
