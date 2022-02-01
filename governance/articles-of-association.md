@@ -32,6 +32,8 @@ community meeting. In addition, employees of Pulumi Corporation (or people direc
 connected with Pulumi Corporation) are welcome to participate as board members, but with no
 more than two members are currently employed by Pulumi Corporation.
 
+You can find the current board membership [here](board.md).
+
 ## Governance Meeting
 
 The governance meeting is the highest level of influence and ability for change in the Pulumiverse
