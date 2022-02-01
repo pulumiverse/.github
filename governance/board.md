@@ -1,4 +1,4 @@
-# Articles of Association for Pulumiverse
+# Board of Pulumiverse
 
 ## 2022
 
