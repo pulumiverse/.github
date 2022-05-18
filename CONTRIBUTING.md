@@ -36,4 +36,6 @@ chore, feat, etc.) Example: `docs: add linux setup instructions`
 ## Need Help?
 
 If any of this information confusing, incorrect, or incomplete, feel free to
-join the [Pulumi Community slack][pulumi-slack] for help.
+join the [Pulumi Community slack][pulumi-slack] and our channel #pulumiverse for help.
+
+[pulumi-slack]: https://slack.pulumi.com/
