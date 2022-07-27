@@ -16,7 +16,7 @@ changes to this document in a pull request.
 
 We use the
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-specification to standardize our commit history. To enforce this convention on
+specification to standardize our commit history. To encourage this convention on
 commit messages and/or pull request titles, we use the
 [Semantic Pull Requests](https://github.com/probot/semantic-pull-requests) bot.
 
