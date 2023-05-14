@@ -45,7 +45,7 @@ meeting has a fixed schedule:
 
 - Boards Reporting (to summarize the year)
 - Changes to policies
-- Documents Election
+- Election (board members and other groups, if needed)
 
 Community members can send suggestions to change the governing documents and
 raise issues; no later than two weeks before the annual community meeting.
