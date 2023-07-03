@@ -13,3 +13,4 @@
 * [Simen A.W. Olsen](https://github.com/cobraz)
 * [Kathryn Morgan](https://github.com/usrbinkat)
 * [Stephen Morgan](https://www.linkedin.com/in/morgans/)
+* [Engin Diri](https://github.com/dirien)
