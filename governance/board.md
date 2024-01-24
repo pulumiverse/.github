@@ -9,14 +9,14 @@
 
 ## 2023
 
-* [Ringo De Smet](https://github.com/ringods)
-* [Simen A.W. Olsen](https://github.com/cobraz)
-* [Kathryn Morgan](https://github.com/usrbinkat)
-* [Stephen Morgan](https://www.linkedin.com/in/morgans/)
-* [Engin Diri](https://github.com/dirien)
+* Member #1 – [Ringo De Smet](https://github.com/ringods)
+* Member #2 – [Simen A.W. Olsen](https://github.com/cobraz)
+* Member #3 – [Kathryn Morgan](https://github.com/usrbinkat)
+* Member #4 – [Stephen Morgan](https://www.linkedin.com/in/morgans/)
+* Member #5 – [Engin Diri](https://github.com/dirien)
 
 ## 2024
 
-* [Simen A.W. Olsen](https://github.com/cobraz)
-* [Stephen Morgan](https://www.linkedin.com/in/morgans/)
-* [Thomas Meckel](https://github.com/tmeckel)
+* Leader – [Stephen Morgan](https://www.linkedin.com/in/morgans/)
+* Member #1 – [Simen A.W. Olsen](https://github.com/cobraz)
+* Member #2 – [Thomas Meckel](https://github.com/tmeckel)
