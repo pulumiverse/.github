@@ -15,7 +15,7 @@
 * [Stephen Morgan](https://www.linkedin.com/in/morgans/)
 * [Engin Diri](https://github.com/dirien)
 
-## 2023
+## 2024
 
 * [Simen A.W. Olsen](https://github.com/cobraz)
 * [Stephen Morgan](https://www.linkedin.com/in/morgans/)
