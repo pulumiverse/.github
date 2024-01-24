@@ -22,9 +22,8 @@ open a pull request).
 Pulumiverse has a board that consists of five board members. Board members hold
 their role for two years; voting is staggered as such:
 
-We elect board members 1 and 2 in year 1, elected for two years. In year 2, we
-elect board members 3, 4 and 5. We elect board members 3, 4 and 5 for one year
-the first year.
+We elect the board leader and members #1 and #2 in term 1. In term 2, we
+elect board members #3 and #4.
 
 Anyone (regardless of contributor or voting rights status) be can be nominated to become a board member, either by being nominated
 by others or sending your nomination to current board members before the annual
