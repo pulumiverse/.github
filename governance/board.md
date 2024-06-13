@@ -1,11 +1,10 @@
 # Board of Pulumiverse
 
-## 2022
+## 2024
 
-* [Ringo De Smet](https://github.com/ringods)
-* [Simen A.W. Olsen](https://github.com/cobraz)
-* [Kathryn Morgan](https://github.com/usrbinkat)
-* [Paul Hicks](https://github.com/tenwit)
+* Leader – [Stephen Morgan](https://www.linkedin.com/in/morgans/)
+* Member #1 – [Simen A.W. Olsen](https://github.com/cobraz)
+* Member #2 – [Thomas Meckel](https://github.com/tmeckel)
 
 ## 2023
 
@@ -15,8 +14,9 @@
 * Member #4 – [Stephen Morgan](https://www.linkedin.com/in/morgans/)
 * Member #5 – [Engin Diri](https://github.com/dirien)
 
-## 2024
+## 2022
 
-* Leader – [Stephen Morgan](https://www.linkedin.com/in/morgans/)
-* Member #1 – [Simen A.W. Olsen](https://github.com/cobraz)
-* Member #2 – [Thomas Meckel](https://github.com/tmeckel)
+* [Ringo De Smet](https://github.com/ringods)
+* [Simen A.W. Olsen](https://github.com/cobraz)
+* [Kathryn Morgan](https://github.com/usrbinkat)
+* [Paul Hicks](https://github.com/tenwit)
